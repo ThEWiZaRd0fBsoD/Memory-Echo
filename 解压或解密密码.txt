@@ -4,4 +4,8 @@ WeWillMeetInAWorldWithoutMaliceButThatIsNotToday
 
 我们会在没有恶意的世界相见但那不是今天
 
-解压软件推荐：https://peazip.github.io/
+因压缩方式特殊，请使用这里推荐的软件解压或者解密：
+https://peazip.github.io/
+https://www.zdevs.ru/en/za/apk.html
+https://github.com/Picocrypt/Picocrypt
+https://github.com/Picocrypt-NG/Picocrypt-NG
