@@ -9,3 +9,4 @@ https://peazip.github.io/
 https://www.zdevs.ru/en/za/apk.html
 https://github.com/Picocrypt/Picocrypt
 https://github.com/Picocrypt-NG/Picocrypt-NG
+https://github.com/mcmilk/7-Zip-zstd
